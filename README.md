@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinuka Liyanage</h1>
 <h3 align="center">Happy Coding!</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
